@@ -1,6 +1,5 @@
 package Problem2;
 
-// Demo.java
 public class Demo {
     public static void main(String[] args) {
         // Creating Point instance
